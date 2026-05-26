@@ -345,9 +345,21 @@
 	"HEADERS" : 
 	[
 		[
+			"E:/C++/qt_cpp/Configurator/categories.h",
+			"MU",
+			"EWIEGA46WW/moc_categories.cpp",
+			null
+		],
+		[
 			"E:/C++/qt_cpp/Configurator/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"E:/C++/qt_cpp/Configurator/objecttreemodel.h",
+			"MU",
+			"EWIEGA46WW/moc_objecttreemodel.cpp",
 			null
 		],
 		[
@@ -428,8 +440,10 @@
 	"SETTINGS_FILE" : "E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Configurator_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "E:/C++/qt_cpp/Configurator/categories.cpp", "MU", null ],
 		[ "E:/C++/qt_cpp/Configurator/main.cpp", "MU", null ],
 		[ "E:/C++/qt_cpp/Configurator/mainwindow.cpp", "MU", null ],
+		[ "E:/C++/qt_cpp/Configurator/objecttreemodel.cpp", "MU", null ],
 		[ "E:/C++/qt_cpp/Configurator/treenode.cpp", "MU", null ]
 	],
 	"UIC_OPTIONS" : [],

@@ -1,4 +1,9 @@
 Configurator_autogen/timestamp: \
+	C:/Qt/6.9.1/mingw_64/include/QtCore/QAbstractItemModel \
+	C:/Qt/6.9.1/mingw_64/include/QtCore/QList \
+	C:/Qt/6.9.1/mingw_64/include/QtCore/QMap \
+	C:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
+	C:/Qt/6.9.1/mingw_64/include/QtCore/QString \
 	C:/Qt/6.9.1/mingw_64/include/QtCore/q17memory.h \
 	C:/Qt/6.9.1/mingw_64/include/QtCore/q20functional.h \
 	C:/Qt/6.9.1/mingw_64/include/QtCore/q20iterator.h \
@@ -6,6 +11,7 @@ Configurator_autogen/timestamp: \
 	C:/Qt/6.9.1/mingw_64/include/QtCore/q20type_traits.h \
 	C:/Qt/6.9.1/mingw_64/include/QtCore/q20utility.h \
 	C:/Qt/6.9.1/mingw_64/include/QtCore/q23utility.h \
+	C:/Qt/6.9.1/mingw_64/include/QtCore/qabstractitemmodel.h \
 	C:/Qt/6.9.1/mingw_64/include/QtCore/qalgorithms.h \
 	C:/Qt/6.9.1/mingw_64/include/QtCore/qanystringview.h \
 	C:/Qt/6.9.1/mingw_64/include/QtCore/qarraydata.h \
@@ -124,6 +130,7 @@ Configurator_autogen/timestamp: \
 	C:/Qt/6.9.1/mingw_64/include/QtCore/qversiontagging.h \
 	C:/Qt/6.9.1/mingw_64/include/QtCore/qxptype_traits.h \
 	C:/Qt/6.9.1/mingw_64/include/QtCore/qyieldcpu.h \
+	C:/Qt/6.9.1/mingw_64/include/QtGui/QIcon \
 	C:/Qt/6.9.1/mingw_64/include/QtGui/qaction.h \
 	C:/Qt/6.9.1/mingw_64/include/QtGui/qbitmap.h \
 	C:/Qt/6.9.1/mingw_64/include/QtGui/qbrush.h \
@@ -580,9 +587,13 @@ Configurator_autogen/timestamp: \
 	E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake \
 	E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
 	E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Configurator_autogen/moc_predefs.h \
+	E:/C++/qt_cpp/Configurator/categories.cpp \
+	E:/C++/qt_cpp/Configurator/categories.h \
 	E:/C++/qt_cpp/Configurator/main.cpp \
 	E:/C++/qt_cpp/Configurator/mainwindow.cpp \
 	E:/C++/qt_cpp/Configurator/mainwindow.h \
+	E:/C++/qt_cpp/Configurator/objecttreemodel.cpp \
+	E:/C++/qt_cpp/Configurator/objecttreemodel.h \
 	E:/C++/qt_cpp/Configurator/treenode.cpp \
 	E:/C++/qt_cpp/Configurator/treenode.h \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe
