@@ -1,0 +1,9 @@
+# ninja log v6
+7	746	8014727314136780	Configurator_autogen/timestamp	1135246e1edeb44c
+7	746	8014727314136780	Configurator_autogen/mocs_compilation.cpp	1135246e1edeb44c
+7	746	8014727314136780	E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Configurator_autogen/timestamp	1135246e1edeb44c
+7	746	8014727314136780	E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/Configurator_autogen/mocs_compilation.cpp	1135246e1edeb44c
+753	2757	8014727315047227	CMakeFiles/Configurator.dir/Configurator_autogen/mocs_compilation.cpp.obj	d16f956260c913e6
+758	2762	8014727315094286	CMakeFiles/Configurator.dir/main.cpp.obj	3abff07b6d8fe436
+764	2769	8014727315146868	CMakeFiles/Configurator.dir/mainwindow.cpp.obj	8249d3e048efd3eb
+2771	2993	8014727335226184	Configurator.exe	947b6399a692d0f1

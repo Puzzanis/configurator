@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d6602eb99c04ce72baa6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Configurator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Configurator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Configurator-Debug-af473b0bcf62aa116ec4.json",
+					"name" : "Configurator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Configurator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Configurator_autogen-Debug-8872c8e91bce6140cc74.json",
+					"name" : "Configurator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Configurator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Configurator_autogen_timestamp_deps-Debug-1da6252f156be272514a.json",
+					"name" : "Configurator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug",
+		"source" : "E:/C++/qt_cpp/Configurator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
