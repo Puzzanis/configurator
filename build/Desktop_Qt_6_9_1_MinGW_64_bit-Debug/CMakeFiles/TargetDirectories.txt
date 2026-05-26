@@ -1,9 +1,0 @@
-E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Configurator.dir
-E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
-E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
-E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
-E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
-E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
-E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
-E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Configurator_autogen_timestamp_deps.dir
-E:/C++/qt_cpp/Configurator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/Configurator_autogen.dir

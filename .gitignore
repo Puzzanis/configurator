@@ -82,3 +82,9 @@ CMakeLists.txt.user*
 .uic/
 /build*/
 /.qtcreator/
+"" 
+"# Папки сборки" 
+"build/" 
+"build-*/" 
+"*Debug/" 
+"*Release/" 
